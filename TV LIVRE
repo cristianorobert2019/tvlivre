@@ -5,10 +5,6 @@
 ########################################   ESPORTES   ###############################
 ###########################################################################################
 
-
-#EXTINF:-1 tvg-id="COMBATE" tvg-logo="http://s2.glbimg.com/Ax3aDHrxC0HiNXLLikBlBKPMw3a3qj6L6afz75t71bYCxj3RUpwxKTOW4t7HEfWY/i.glbimg.com/og/ig/infoglobo1/f/original/2015/05/27/4292437-alt-combate-1_3.jpg" group-title="Esportes", COMBATE
-
-
 #EXTINF:-1 tvg-id="SPORT TV" tvg-logo="https://s.glbimg.com/es/ge/static/live/sportv/img/logos/facebook.png" group-title="Esportes", SPORT TV
 http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/sportv_91dfde1d_e6dd8d0c0997f7875e60d44ef2ae8c51832c1139/playlist.m3u8
 
